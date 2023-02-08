@@ -4,11 +4,11 @@ import { Select } from "./components/Select";
 import { SelectOption } from "./utils/select.utils";
 
 const options = [
-  { label: "First", value: 1 },
-  { label: "Second", value: 2 },
-  { label: "Third", value: 3 },
-  { label: "Fourth", value: 4 },
-  { label: "Fifth", value: 5 },
+  { label: "Primero", value: 1 },
+  { label: "Segundo", value: 2 },
+  { label: "Tercero", value: 3 },
+  { label: "Cuarto", value: 4 },
+  { label: "Quinto", value: 5 },
 ];
 
 function App() {
